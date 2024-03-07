@@ -14,6 +14,7 @@
 - 👯 I’m looking to collaborate on **AI, Deep learning and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hitesh-s0lanki](https://github.com/Hitesh-s0lanki)
+- My leetcode link at [https://leetcode.com/hitesh4623/](https://leetcode.com/hitesh4623/)
 
 - 💬 Ask me about **leetcode**
 
