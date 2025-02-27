@@ -11,7 +11,7 @@ I'm a passionate **problem solver** and **software developer** from **India** wi
 
 ### 📫 Connect with Me
 - **GitHub:** [github.com/hiteshsolanki](https://github.com/hitesh-s0lanki)  
-- **LinkedIn:** [linkedin.com/in/hiteshsolanki](https://linkedin.com/in/hiteshsolanki)  
+- **LinkedIn:** [linkedin/hiteshsolanki](https://www.linkedin.com/in/hitesh-solanki-a058872a0/)  
 
 
 
