@@ -14,10 +14,6 @@ I enjoy building products from scratch, experimenting with new technologies, and
   <img src="https://komarev.com/ghpvc/?username=hitesh-s0lanki&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=hitesh-s0lanki&theme=onedark&row=1&column=6" alt="github trophies" />
-</p>
-
 ---
 
 ## 🔗 Connect With Me
@@ -53,16 +49,6 @@ I enjoy building products from scratch, experimenting with new technologies, and
 
 ---
 
-### 📊 **Strique AI**
-> Marketing & product analytics automation platform
-
-- Automates product sets for **Shopify & Meta Ads**
-- Uses AI agents for insights & optimization
-- Focused on scalability & performance
-
-**Tech:** Python · FastAPI · Redis · PostgreSQL · OpenAI
-
----
 
 ## 🧩 Languages & Tools
 
@@ -85,18 +71,6 @@ I enjoy building products from scratch, experimenting with new technologies, and
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></a>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hitesh-s0lanki&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh-s0lanki&theme=tokyonight" />
 </p>
 
 ---
